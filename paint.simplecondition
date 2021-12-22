@@ -1,0 +1,21 @@
+//rctrl + TriggerTestUp ♦ macro:paint:tdd ♦ ☗TriggerOnTrue
+//rctrl + TriggerTestDown ♦ macro:paint:tdd  ♦ ☗TriggerOnTrue
+rctrl + TriggerTestDown ♦ macro:paint:tdd  ♦ ☗TriggerOnTrue
+
+
+paint + xbu ♦stack:doandgonext:colorlinetop♦ ☗TriggerOnTrue
+paint + xbr ♦stack:doandgonext:colorlinedown♦ ☗TriggerOnTrue
+paint + xbl ♦stack:doandgonext:brush♦ ☗TriggerOnTrue
+paint + xsbr ♦stack:doandgonext:maintool♦ ☗TriggerOnTrue
+paint + xbd ♦stack:doandgonext:mainshape♦ ☗TriggerOnTrue
+paint + xbd ♦stack:doandgonext:mainshape♦ ☗TriggerOnTrue
+paint + joyrightleft ♦macro:paint:undo♦ ☗TriggerOnTrue
+paint + joyrightright ♦macro:paint:redo♦ ☗TriggerOnTrue
+paint + joyrightleft ♦macro:paint:undo♦ ☗LoopOnTrue 200
+paint + joyrightright ♦macro:paint:redo♦ ☗LoopOnTrue 200
+paint + xs ♦macro:paint:ColorPickAndClick♦ ☗TriggerOnTrue
+
+paint + xar ♦macro:paint:rotateleft♦ ☗TriggerOnTrue
+paint + xau ♦macro:paint:rotateright♦ ☗TriggerOnTrue
+paint + xal ♦macro:paint:fliphorizontal♦ ☗TriggerOnTrue
+paint + xad ♦macro:paint:flipvertical♦ ☗TriggerOnTrue
