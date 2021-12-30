@@ -1,21 +1,32 @@
-//rctrl + TriggerTestUp ♦ macro:paint:tdd ♦ ☗TriggerOnTrue
-//rctrl + TriggerTestDown ♦ macro:paint:tdd  ♦ ☗TriggerOnTrue
-rctrl + TriggerTestDown ♦ macro:paint:tdd  ♦ ☗TriggerOnTrue
+//| ↓ ↑ _ ‾ ∨ ∧ ¬ ⊗ ≡ ≤ ≥ ⌃ ⌄ ⊓⇅ ⊔⇵ ⊏ ⊐ ↱↳ ∑ -no unity ⤒ ⤓ ⌈ ⌊ 🀲 🀸 ⌛ ⏰
+
+notepad + A1♦jomi: A↓ ⌛200 A↑ ♦☗TriggerOnTrue
+notepad + A1♦jomi: B↓ ⌛200 B↑ ♦☗TriggerOnFalse
+notepad + A2♦jomi: ♦☗TriggerOnTrue
+notepad + A3♦jomi: ♦☗TriggerOnTrue
+notepad + A4♦jomi: ♦☗TriggerOnTrue
+notepad + A5♦jomi: ♦☗TriggerOnTrue
+notepad + A6♦jomi: ♦☗TriggerOnTrue
+notepad + A7♦jomi: ♦☗TriggerOnTrue
+notepad + A8♦jomi: ♦☗TriggerOnTrue
+notepad + A9♦jomi: ♦☗TriggerOnTrue
+notepad + A0♦jomi: ♦☗TriggerOnTrue
+
+notepad + F1♦jomi: A↓ ⌛200 A↑ ♦☗TriggerOnTrue
+notepad + F2♦jomi: ♦☗TriggerOnTrue
+notepad + F3♦jomi: ♦☗TriggerOnTrue
+notepad + F4♦jomi: ♦☗TriggerOnTrue
+notepad + F5♦jomi: ♦☗TriggerOnTrue
+notepad + F6♦jomi: ♦☗TriggerOnTrue
+notepad + F7♦jomi: ♦☗TriggerOnTrue
+notepad + F8♦jomi: ♦☗TriggerOnTrue
+notepad + F9♦jomi: ♦☗TriggerOnTrue
+notepad + F10♦jomi: ♦☗TriggerOnTrue
+notepad + F11♦jomi: ♦☗TriggerOnTrue
+notepad + F12♦jomi: ♦☗TriggerOnTrue
 
 
-paint + xbu ♦stack:doandgonext:colorlinetop♦ ☗TriggerOnTrue
-paint + xbr ♦stack:doandgonext:colorlinedown♦ ☗TriggerOnTrue
-paint + xbl ♦stack:doandgonext:brush♦ ☗TriggerOnTrue
-paint + xsbr ♦stack:doandgonext:maintool♦ ☗TriggerOnTrue
-paint + xbd ♦stack:doandgonext:mainshape♦ ☗TriggerOnTrue
-paint + xbd ♦stack:doandgonext:mainshape♦ ☗TriggerOnTrue
-paint + joyrightleft ♦macro:paint:undo♦ ☗TriggerOnTrue
-paint + joyrightright ♦macro:paint:redo♦ ☗TriggerOnTrue
-paint + joyrightleft ♦macro:paint:undo♦ ☗LoopOnTrue 200
-paint + joyrightright ♦macro:paint:redo♦ ☗LoopOnTrue 200
-paint + xs ♦macro:paint:ColorPickAndClick♦ ☗TriggerOnTrue
-
-paint + xar ♦macro:paint:rotateleft♦ ☗TriggerOnTrue
-paint + xau ♦macro:paint:rotateright♦ ☗TriggerOnTrue
-paint + xal ♦macro:paint:fliphorizontal♦ ☗TriggerOnTrue
-paint + xad ♦macro:paint:flipvertical♦ ☗TriggerOnTrue
+notepad + Left♦jomi: ♦☗TriggerOnTrue
+notepad + Right♦jomi: ♦☗TriggerOnTrue
+notepad + Up♦jomi: ♦☗TriggerOnTrue
+notepad + Down♦jomi: ♦☗TriggerOnTrue
