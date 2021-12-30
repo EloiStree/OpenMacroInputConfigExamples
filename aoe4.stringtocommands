@@ -1,0 +1,211 @@
+aoe4:selectmilitary♦jomi:  f1↓ f1↑
+aoe4:selectmarket♦jomi:  f2↓ f2↑
+aoe4:selectforgeplus♦jomi:  f3↓ f3↑
+aoe4:selectforumplus♦jomi:  f4↓ f4↑
+
+
+aoe4:selectafk♦jomi:  OME_2↓ OME_2↑
+aoe4:selectallafk♦jomi:  ctrl+OME_2
+aoe4:selectallpaysan♦jomi:  shift+alt+v
+aoe4:selectallmilitary♦jomi: ctrl+OME_2
+
+aoe4:selectallunit♦jomi:  shitft+ctrl+a
+aoe4:selectallunitinscreen♦jomi:  ctrl +a
+
+
+//Market
+aoe4:createdonkey♦jomi: f2↓ f2↑ ⌛20 a↓ a↑ 
+aoe4:sellonefood♦jomi: f2↓ f2↑  ⌛20 w↓ w↑  
+aoe4:sellonewood♦jomi: f2↓ f2↑  ⌛20 x↓ x↑  
+aoe4:sellonestone♦jomi: f2↓ f2↑ ⌛20 c↓ c↑ 
+aoe4:buyonefood♦jomi: f2↓ f2↑   ⌛20 q↓ q↑  
+aoe4:buyonewood♦jomi: f2↓ f2↑   ⌛20 s↓ s↑  
+aoe4:buyonestone♦jomi: f2↓ f2↑  ⌛20 d↓ d↑  
+aoe4:sellfoodandwood♦jomi: f2↓ f2↑  ⌛20 w↓ w↑ ⌛20 x↓ x↑  
+
+
+
+aoe4:selltenfood♦jomi: f2↓ f2↑  ⌛100 w↓ w↑ ⌛100 w↓ w↑ ⌛100 w↓ w↑ ⌛100 w↓ w↑ ⌛100 w↓ w↑ ⌛100 w↓ w↑ ⌛100 w↓ w↑ ⌛100 w↓ w↑ ⌛100 w↓ w↑  
+aoe4:selltenwood♦jomi: f2↓ f2↑  ⌛100 x↓ x↑ ⌛100 x↓ x↑ ⌛100 x↓ x↑ ⌛100 x↓ x↑ ⌛100 x↓ x↑ ⌛100 x↓ x↑ ⌛100 x↓ x↑ ⌛100 x↓ x↑ ⌛100 x↓ x↑  
+aoe4:selltenstone♦jomi: f2↓ f2↑ ⌛100 c↓ c↑ ⌛100 c↓ c↑ ⌛100 c↓ c↑ ⌛100 c↓ c↑ ⌛100 c↓ c↑ ⌛100 c↓ c↑ ⌛100 c↓ c↑ ⌛100 c↓ c↑ ⌛100 c↓ c↑ 
+aoe4:buytenfood♦jomi: f2↓ f2↑   ⌛100 q↓ q↑ ⌛100 q↓ q↑ ⌛100 q↓ q↑ ⌛100 q↓ q↑ ⌛100 q↓ q↑ ⌛100 q↓ q↑ ⌛100 q↓ q↑ ⌛100 q↓ q↑ ⌛100 q↓ q↑  
+aoe4:buytenwood♦jomi: f2↓ f2↑   ⌛100 s↓ s↑ ⌛100 s↓ s↑ ⌛100 s↓ s↑ ⌛100 s↓ s↑ ⌛100 s↓ s↑ ⌛100 s↓ s↑ ⌛100 s↓ s↑ ⌛100 s↓ s↑ ⌛100 s↓ s↑  
+aoe4:buytenstone♦jomi: f2↓ f2↑  ⌛100 d↓ d↑ ⌛100 d↓ d↑ ⌛100 d↓ d↑ ⌛100 d↓ d↑ ⌛100 d↓ d↑ ⌛100 d↓ d↑ ⌛100 d↓ d↑ ⌛100 d↓ d↑ ⌛100 d↓ d↑
+
+
+
+
+//wall
+
+aoe4:startstonewall♦jomi: shift↓ z↓ z↑  ⌛10 x↓ x↑ leftclick↓ leftclick↑
+aoe4:stopstonewall♦jomi:  leftclick↓ leftclick↑ ⌛10   shift↑ ⌛10 escape↓ escape↑
+aoe4:startwoodwall♦jomi: shift↓ a↓ a↑  ⌛10 x↓ x↑  leftclick↓ leftclick↑
+aoe4:stopwoodwall♦jomi:  leftclick↓ leftclick↑  shift↑ ⌛10 escape↓ escape↑
+
+
+aoe4:startwatchtower♦jomi: shift↓ a↓ a↑  ⌛10 w↓ w↑  
+aoe4:stopwatchtower♦jomi:  leftclick↓ leftclick↑  shift↑ ⌛10 escape↓ escape↑
+
+
+
+aoe4:starthouse♦jomi: shift↓ a↓ a↑  ⌛10 a↓ a↑  
+aoe4:stophouse♦jomi:  leftclick↓ leftclick↑  shift↑ ⌛10 escape↓ escape↑
+aoe4:sethouse♦macro:aoe4:starthouse ♦In 100|macro:aoe4:stophouse
+
+
+aoe4:startquickstonedef♦jomi: shift↓ z↓ z↑  ⌛10 x↓ x↑  leftclick↓ leftclick↑ 
+aoe4:stopquickstonedef♦jomi:  leftclick↓ leftclick↑  shift↑ ⌛10 escape↓ escape↑ ⌛10  z↓ z↑  ⌛10 w↓ w↑  
+
+
+aoe4:game:startpivotingcamera♦jomi: alt↓  
+aoe4:game:endpivotingcamera♦jomi:  alt↑  
+aoe4:game:selectallunitinscreen♦jomi: ctrl+a
+aoe4:game:accesssecondaryinterface♦jomi: Y↓ Y↑  ⌛100 d↓ d↑
+aoe4:game:reinitcamera♦jomi: backspace↓ backspace↑  ⌛100 d↓ d↑
+//:
+aoe4:game:selectpaysan♦jomi: :↓ :↑ 
+//;
+aoe4:game:selectmilitary♦jomi: ;↓ ;↑ 
+aoe4:game:focuslastevent♦jomi: space↓ space↑
+aoe4:game:selectmainforum♦jomi: ctrl+h
+aoe4:game:selectforum♦jomi: h↓ h↑ 
+//)
+aoe4:game:rotatecameraleft♦jomi: o↓ o↑ 
+//^
+aoe4:game:rotatecamerarigth♦jomi: p↓ p↑ 
+aoe4:game:camup♦jomi: up↓ ⌛100 up↑
+aoe4:game:camleft♦jomi: left↓ ⌛100 left↑
+aoe4:game:camdown♦jomi: down↓ ⌛100 down↑
+aoe4:game:camright♦jomi: right↓ ⌛100 right↑ 
+aoe4:game:next♦jomi: tab↓ tab↑  
+aoe4:game:previous♦jomi: tab↓ tab↑  
+aoe4:game:focusselection♦jomi: F5↓ F5↑ 
+aoe4:game:focus♦jomi: f5↓ f5↑  
+aoe4:game:selectallpaysan♦jomi: ctrl+shift+v  
+aoe4:game:selectallafkpaysan♦jomi: ctrl+;
+aoe4:game:selectafkpaysan♦jomi: ;↓ ;↑
+aoe4:game:selectallmilitary♦jomi: ctrl+shift+v  
+aoe4:game:selectallafkmilitary♦jomi: ctrl+;
+aoe4:game:selectafkmilitary♦jomi: :↓ :↑  
+aoe4:game:nextscout♦jomi: =↓ =↑  
+aoe4:game:nextforum♦jomi: h↓ h↑  
+aoe4:game:nextfoodpaysan♦jomi: ctrl+f
+aoe4:game:nextwoodpaysan♦jomi: ctrl+w
+aoe4:game:nextgoldpaysan♦jomi: ctrl+g
+aoe4:game:nextstonepaysan♦jomi: ctrl+s 
+
+aoe4:game:militarymenu♦jomi: F1↓ f1↑
+aoe4:game:economymenu♦jomi: F2↓ f2↑
+aoe4:game:technologymenu♦jomi: f3↓ f2↑
+aoe4:game:forumandplusmenu♦jomi: F4↓ f3↑  
+
+ 
+aoe4:game:g1♦jomi: 1↓ 1↑  
+aoe4:game:g2♦jomi: 2↓ 2↑  
+aoe4:game:g3♦jomi: 3↓ 3↑  
+aoe4:game:g4♦jomi: 4↓ 4↑  
+aoe4:game:g5♦jomi: 5↓ 5↑  
+aoe4:game:g6♦jomi: 6↓ 6↑  
+aoe4:game:g7♦jomi: 7↓ 7↑  
+aoe4:game:g8♦jomi: 8↓ 8↑  
+aoe4:game:g9♦jomi: 9↓ 9↑
+aoe4:game:g0♦jomi: 0↓ 0↑
+
+
+aoe4:game:focusg1♦jomi: 1↓ 1↑ ⌛20 1↓ 1↑
+aoe4:game:focusg2♦jomi: 2↓ 2↑ ⌛20 2↓ 2↑
+aoe4:game:focusg3♦jomi: 3↓ 3↑ ⌛20 3↓ 3↑
+aoe4:game:focusg4♦jomi: 4↓ 4↑ ⌛20 4↓ 4↑
+aoe4:game:focusg5♦jomi: 5↓ 5↑ ⌛20 5↓ 5↑
+aoe4:game:focusg6♦jomi: 6↓ 6↑ ⌛20 6↓ 6↑
+aoe4:game:focusg7♦jomi: 7↓ 7↑ ⌛20 7↓ 7↑
+aoe4:game:focusg8♦jomi: 8↓ 8↑ ⌛20 8↓ 8↑
+aoe4:game:focusg9♦jomi: 9↓ 9↑ ⌛20 9↓ 9↑
+aoe4:game:focusg0♦jomi: 0↓ 0↑ ⌛20 0↓ 0↑
+  
+aoe4:game:add2g0♦jomi: shift+ 0
+aoe4:game:add2g1♦jomi: shift+ 1
+aoe4:game:add2g2♦jomi: shift+ 2
+aoe4:game:add2g3♦jomi: shift+ 3
+aoe4:game:add2g4♦jomi: shift+ 4
+aoe4:game:add2g5♦jomi: shift+ 5
+aoe4:game:add2g6♦jomi: shift+ 6
+aoe4:game:add2g7♦jomi: shift+ 7
+aoe4:game:add2g8♦jomi: shift+ 8
+aoe4:game:add2g9♦jomi: shift+ 9
+aoe4:game:add2g0♦jomi: shift + 0
+
+aoe4:game:setg1♦jomi: ctrl+  1
+aoe4:game:setg2♦jomi: ctrl+  2
+aoe4:game:setg3♦jomi: ctrl+  3
+aoe4:game:setg4♦jomi: ctrl+  4
+aoe4:game:setg5♦jomi: ctrl+  5
+aoe4:game:setg6♦jomi: ctrl+  6
+aoe4:game:setg7♦jomi: ctrl+  7
+aoe4:game:setg8♦jomi: ctrl+  8
+aoe4:game:setg9♦jomi: ctrl+  9
+aoe4:game:setg0♦jomi: ctrl+  0
+
+aoe4:game:setg1♦jomi: ctrl+  1
+aoe4:game:setg2♦jomi: ctrl+  2
+aoe4:game:setg3♦jomi: ctrl+  3
+aoe4:game:setg4♦jomi: ctrl+  4
+aoe4:game:setg5♦jomi: ctrl+  5
+aoe4:game:setg6♦jomi: ctrl+  6
+aoe4:game:setg7♦jomi: ctrl+  7
+aoe4:game:setg8♦jomi: ctrl+  8
+aoe4:game:setg9♦jomi: ctrl+  9
+aoe4:game:setg0♦jomi: ctrl+  0
+
+
+
+aoe4:game:pingattack♦jomi: ctrl+r
+aoe4:game:pingdefense♦jomi:  ctrl+t
+aoe4:game:ping♦jomi: ctrl+e
+
+aoe4:game:sendmoney♦jomi: f6↓ f6↑
+aoe4:game:switchcolor♦jomi: insert↓ insert↑
+
+
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑
+aoe4:game:♦jomi: f2↓ f2↑  ⌛100 d↓ d↑

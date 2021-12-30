@@ -1,0 +1,17 @@
+☗name Set three window to they place
+☗callid aoe4:testsequence
+//↑10 ↓300♦mouseutility:leftclick:selection
+↑10 ↓1000♦macro:aoe4:createdonkey
+↑10 ↓1000♦macro:aoe4:sellonefood
+↑10 ↓1000♦macro:aoe4:sellonewood
+↑10 ↓1000♦macro:aoe4:sellonestone
+↑10 ↓1000♦macro:aoe4:buyonefood
+↑10 ↓1000♦macro:aoe4:buyonewood
+↑10 ↓1000♦macro:aoe4:buyonestone
+
+↑10 ↓1000♦macro:aoe4:selltenfood
+↑10 ↓1000♦macro:aoe4:selltenwood
+↑10 ↓1000♦macro:aoe4:selltenstone
+↑10 ↓1000♦macro:aoe4:buytenfood
+↑10 ↓1000♦macro:aoe4:buytenwood
+↑10 ↓1000♦macro:aoe4:buytenstone

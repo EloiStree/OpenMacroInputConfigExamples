@@ -1,0 +1,5 @@
+aoe4 + CustomMidLeft ♦ Enter↓  ♦  ☗Time 200 ☗TriggerOnRange  
+aoe4 + CustomMidLeft ♦  Enter↑ ♦  ☗Time 400 ☗TriggerOnRange  
+aoe4 + CustomMidLeft ♦ r↓ r↑ o↓ o↑ w↓ w↑ s↓ s↑ h↓ h↑ e↓ e↑ p↓ p↑  ♦  ☗Time 600 ☗TriggerOnRange  
+aoe4 + CustomMidLeft ♦ Enter↓  ♦  ☗Time 2000 ☗TriggerOnRange  
+aoe4 + CustomMidLeft ♦  Enter↑ ♦  ☗Time 2500 ☗TriggerOnRange 

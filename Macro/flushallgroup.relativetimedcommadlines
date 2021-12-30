@@ -1,0 +1,13 @@
+☗name Set three window to they place
+☗callid aoe4:flushallgroup
+//↑10 ↓300♦mouseutility:leftclick:selection
+↑1 ↓1♦macro:aoe4:game:setg1
+↑1 ↓1♦macro:aoe4:game:setg2
+↑1 ↓1♦macro:aoe4:game:setg3
+↑1 ↓1♦macro:aoe4:game:setg4
+↑1 ↓1♦macro:aoe4:game:setg5
+↑1 ↓1♦macro:aoe4:game:setg6
+↑1 ↓1♦macro:aoe4:game:setg7
+↑1 ↓1♦macro:aoe4:game:setg8
+↑1 ↓1♦macro:aoe4:game:setg9
+↑1 ↓1♦macro:aoe4:game:setg0

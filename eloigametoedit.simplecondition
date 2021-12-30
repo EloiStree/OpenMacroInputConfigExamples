@@ -1,0 +1,8 @@
+
+xm ♦ bool:playwindowrequested:true  ♦ ☗TriggerOnTrue
+xm ♦ bool:playwindowrequested:false  ♦ ☗TriggerOnFalse
+xs ♦ bool:editwindowrequested:true  ♦ ☗TriggerOnTrue
+xs ♦ bool:editwindowrequested:false  ♦ ☗TriggerOnFalse
+
+playwindowrequested ♦ macro:eloi:switchtoplay  ♦ ☗TriggerOnTrue
+editwindowrequested ♦ macro:eloi:switchtoedit  ♦ ☗TriggerOnTrue

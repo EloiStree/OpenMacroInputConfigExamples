@@ -1,0 +1,53 @@
+
+aoe4 + xbl♦ macro:aoe4:selectafk  ♦ ☗TriggerOnTrue
+aoe4 + xbr♦ jomi: f3↓ f3↑ ♦ ☗TriggerOnTrue
+aoe4 + xbr♦ macro:aoe4:sellfoodandwood ♦ ☗LoopOnTrue 50
+aoe4 + xbu♦ macro:aoe4:testsequence  ♦ ☗TriggerOnTrue
+aoe4 + xbd♦ macro:aoe4:rotatecameraaround  ♦ ☗TriggerOnTrue
+aoe4 + xbd♦ macro:aoe4:  ♦ ☗TriggerOnFalse
+
+
+
+aoe4 + xal♦ macro:aoe4:startwoodwall ♦ ☗TriggerOnTrue
+aoe4 + xal♦ macro:aoe4:stopwoodwall  ♦ ☗TriggerOnFalse
+
+
+aoe4 + xad♦ macro:aoe4:startstonewall ♦ ☗TriggerOnTrue
+aoe4 + xad♦ macro:aoe4:stopstonewall  ♦ ☗TriggerOnFalse
+
+
+aoe4 + xar♦ macro:aoe4:startwatchtower ♦ ☗TriggerOnTrue
+aoe4 + xar♦ macro:aoe4:stopwatchtower  ♦ ☗TriggerOnFalse
+
+//aoe4 + xau♦ macro:aoe4:starthouse ♦ ☗TriggerOnTrue
+//aoe4 + xau♦ macro:aoe4:stophouse  ♦ ☗TriggerOnFalse
+
+//aoe4 + xau♦ macro:aoe4:sethouse ♦ ☗LoopOnTrue 800
+
+
+aoe4 + xau♦ macro:aoe4:startquickstonedef ♦ ☗TriggerOnTrue
+aoe4 + xau♦ macro:aoe4:stopquickstonedef  ♦ ☗TriggerOnFalse
+
+aoe4 + xtl♦ bool:warmode:true ♦ ☗TriggerOnTrue
+aoe4 + xtl♦ bool:warmode:false  ♦ ☗TriggerOnFalse
+
+aoe4 + xsbr♦ bool:warmodeselect:true ♦ ☗TriggerOnTrue
+aoe4 + xsbr♦ bool:warmodeselect:false  ♦ ☗TriggerOnFalse
+
+aoe4 + warmodeselect + mouseleft♦ jomi:  y↓ y↑  ⌛100 a↓ a↑   ♦ ☗TriggerOnTrue
+aoe4 + warmodeselect + mouseleft♦ jomi:  leftclick↓ leftclick↑  ♦ ☗TriggerOnFalse
+
+aoe4 + warmodeselect + mousemiddle♦jomi:  y↓ y↑  ⌛100 q↓ q↑   ♦ ☗TriggerOnTrue
+aoe4 + warmodeselect + mousemiddle♦jomi:  leftclick↓ leftclick↑  ♦ ☗TriggerOnFalse
+
+
+
+
+aoe4 + arrowleft♦ bool:recmode:true ♦ ☗TriggerOnTrue
+aoe4 + !arrowleft♦ bool:recmode:false ♦ ☗TriggerOnTrue
+
+aoe4 + recmode + arrowup↓ ♦screenrec:save:arrowup ♦ ☗TriggerOnTrue
+aoe4 + !recmode + arrowup↓ ♦screenrec:save:current ♦ ☗TriggerOnTrue
+aoe4 + !recmode + arrowup↓ ♦In 20|screenrec:recover:arrowup ♦ ☗TriggerOnTrue
+aoe4 + !recmode + arrowup↓ ♦In 60|jomiraw:ms:l ♦ ☗TriggerOnTrue
+aoe4 + !recmode + arrowup↓ ♦In 100|screenrec:recover:current ♦ ☗TriggerOnTrue
