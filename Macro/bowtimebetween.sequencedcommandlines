@@ -1,0 +1,61 @@
+☗name Test the Xbox simulator
+☗callid apex:bowdommagetests
+☗delay 1800
+jomi:enter↕ [[10]]   enter↕   200>  ( leftclick↓100  10> )x3
+jomi:enter↕ [[20]]   enter↕   200>  ( leftclick↓100  20> )x3
+jomi:enter↕ [[30]]   enter↕   200>  ( leftclick↓100  30> )x3
+jomi:enter↕ [[40]]   enter↕   200>  ( leftclick↓100  40> )x3
+jomi:enter↕ [[50]]   enter↕   200>  ( leftclick↓100  50> )x3
+jomi:enter↕ [[50]]   enter↕   200>  ( leftclick↓100  50> )x3
+jomi:enter↕ [[60]]   enter↕   200>  ( leftclick↓100  60> )x3
+jomi:enter↕ [[70]]   enter↕   200>  ( leftclick↓100  70> )x3
+jomi:enter↕ [[80]]   enter↕   200>  ( leftclick↓100  80> )x3
+jomi:enter↕ [[90]]   enter↕   200>  ( leftclick↓100  90> )x3
+									(               200> )x3
+jomi:enter↕ [[100]]  enter↕    200> ( leftclick↓100 100> )x3
+jomi:enter↕ [[110]]   enter↕   200> ( leftclick↓100 110> )x3
+jomi:enter↕ [[120]]   enter↕   200> ( leftclick↓100 120> )x3
+jomi:enter↕ [[130]]   enter↕   200> ( leftclick↓100 130> )x3
+jomi:enter↕ [[140]]   enter↕   200> ( leftclick↓100 140> )x3
+jomi:enter↕ [[150]]   enter↕   200> ( leftclick↓100 150> )x3
+jomi:enter↕ [[150]]   enter↕   200> ( leftclick↓100 150> )x3
+jomi:enter↕ [[160]]   enter↕   200> ( leftclick↓100 160> )x3
+jomi:enter↕ [[170]]   enter↕   200> ( leftclick↓100 170> )x3
+jomi:enter↕ [[180]]   enter↕   200> ( leftclick↓100 180> )x3
+jomi:enter↕ [[190]]   enter↕   200> ( leftclick↓100 190> )x3
+									
+jomi:enter↕ [[200]]  enter↕    200> ( leftclick↓100 200> )x3
+jomi:enter↕ [[210]]   enter↕   200> ( leftclick↓100 210> )x3
+jomi:enter↕ [[220]]   enter↕   200> ( leftclick↓100 220> )x3
+jomi:enter↕ [[230]]   enter↕   200> ( leftclick↓100 230> )x3
+jomi:enter↕ [[240]]   enter↕   200> ( leftclick↓100 240> )x3
+jomi:enter↕ [[250]]   enter↕   200> ( leftclick↓100 250> )x3
+jomi:enter↕ [[250]]   enter↕   200> ( leftclick↓100 250> )x3
+jomi:enter↕ [[260]]   enter↕   200> ( leftclick↓100 260> )x3
+jomi:enter↕ [[270]]   enter↕   200> ( leftclick↓100 270> )x3
+jomi:enter↕ [[280]]   enter↕   200> ( leftclick↓100 280> )x3
+jomi:enter↕ [[290]]   enter↕   200> ( leftclick↓100 290> )x3
+									
+jomi:enter↕ [[300]]  enter↕    200> ( leftclick↓100 300> )x3
+jomi:enter↕ [[310]]   enter↕   200> ( leftclick↓100 310> )x3
+jomi:enter↕ [[320]]   enter↕   200> ( leftclick↓100 320> )x3
+jomi:enter↕ [[330]]   enter↕   200> ( leftclick↓100 330> )x3
+jomi:enter↕ [[340]]   enter↕   200> ( leftclick↓100 340> )x3
+jomi:enter↕ [[350]]   enter↕   200> ( leftclick↓100 350> )x3
+jomi:enter↕ [[350]]   enter↕   200> ( leftclick↓100 350> )x3
+jomi:enter↕ [[360]]   enter↕   200> ( leftclick↓100 360> )x3
+jomi:enter↕ [[370]]   enter↕   200> ( leftclick↓100 370> )x3
+jomi:enter↕ [[380]]   enter↕   200> ( leftclick↓100 380> )x3
+jomi:enter↕ [[390]]   enter↕   200> ( leftclick↓100 390> )x3
+									
+jomi:enter↕ [[400]]  enter↕    200> ( leftclick↓100 400> )x3
+jomi:enter↕ [[410]]   enter↕   200> ( leftclick↓100 410> )x3
+jomi:enter↕ [[420]]   enter↕   200> ( leftclick↓100 420> )x3
+jomi:enter↕ [[430]]   enter↕   200> ( leftclick↓100 430> )x3
+jomi:enter↕ [[440]]   enter↕   200> ( leftclick↓100 440> )x3
+jomi:enter↕ [[450]]   enter↕   200> ( leftclick↓100 450> )x3
+jomi:enter↕ [[450]]   enter↕   200> ( leftclick↓100 450> )x3
+jomi:enter↕ [[460]]   enter↕   200> ( leftclick↓100 460> )x3
+jomi:enter↕ [[470]]   enter↕   200> ( leftclick↓100 470> )x3
+jomi:enter↕ [[480]]   enter↕   200> ( leftclick↓100 480> )x3
+jomi:enter↕ [[490]]   enter↕   200> ( leftclick↓100 490> )x3

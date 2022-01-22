@@ -1,0 +1,88 @@
+☗name Test the Xbox simulator
+☗callid apex:bowdommagetestd
+☗delay 1800
+jomi:enter↕ [[10]]   enter↕   200>  ( leftclick↓10  200> )x3
+jomi:enter↕ [[20]]   enter↕   200>  ( leftclick↓20  200> )x3
+jomi:enter↕ [[30]]   enter↕   200>  ( leftclick↓30  200> )x3
+jomi:enter↕ [[40]]   enter↕   200>  ( leftclick↓40  200> )x3
+jomi:enter↕ [[50]]   enter↕   200>  ( leftclick↓50  200> )x3
+jomi:enter↕ [[50]]   enter↕   200>  ( leftclick↓50  200> )x3
+jomi:enter↕ [[60]]   enter↕   200>  ( leftclick↓60  200> )x3
+jomi:enter↕ [[70]]   enter↕   200>  ( leftclick↓70  200> )x3
+jomi:enter↕ [[80]]   enter↕   200>  ( leftclick↓80  200> )x3
+jomi:enter↕ [[90]]   enter↕   200>  ( leftclick↓90  200> )x3
+									(               200> )x3
+jomi:enter↕ [[100]]  enter↕  200>   ( leftclick↓100 200> )x3
+jomi:enter↕ [[110]]   enter↕   200> ( leftclick↓110 200> )x3
+jomi:enter↕ [[120]]   enter↕   200> ( leftclick↓120 200> )x3
+jomi:enter↕ [[130]]   enter↕   200> ( leftclick↓130 200> )x3
+jomi:enter↕ [[140]]   enter↕   200> ( leftclick↓140 200> )x3
+jomi:enter↕ [[150]]   enter↕   200> ( leftclick↓150 200> )x3
+jomi:enter↕ [[150]]   enter↕   200> ( leftclick↓150 200> )x3
+jomi:enter↕ [[160]]   enter↕   200> ( leftclick↓160 200> )x3
+jomi:enter↕ [[170]]   enter↕   200> ( leftclick↓170 200> )x3
+jomi:enter↕ [[180]]   enter↕   200> ( leftclick↓180 200> )x3
+jomi:enter↕ [[190]]   enter↕   200> ( leftclick↓190 200> )x3
+									(               200> )x3
+jomi:enter↕ [[200]]  enter↕  200>   ( leftclick↓200 200> )x3
+jomi:enter↕ [[210]]   enter↕   200> ( leftclick↓210 200> )x3
+jomi:enter↕ [[220]]   enter↕   200> ( leftclick↓220 200> )x3
+jomi:enter↕ [[230]]   enter↕   200> ( leftclick↓230 200> )x3
+jomi:enter↕ [[240]]   enter↕   200> ( leftclick↓240 200> )x3
+jomi:enter↕ [[250]]   enter↕   200> ( leftclick↓250 200> )x3
+jomi:enter↕ [[250]]   enter↕   200> ( leftclick↓250 200> )x3
+jomi:enter↕ [[260]]   enter↕   200> ( leftclick↓260 200> )x3
+jomi:enter↕ [[270]]   enter↕   200> ( leftclick↓270 200> )x3
+jomi:enter↕ [[280]]   enter↕   200> ( leftclick↓280 200> )x3
+jomi:enter↕ [[290]]   enter↕   200> ( leftclick↓290 200> )x3
+									(               200> )x3
+									(               200> )x3
+jomi:enter↕ [[300]]  enter↕  200>   ( leftclick↓300 200> )x3
+jomi:enter↕ [[310]]   enter↕   200> ( leftclick↓310 200> )x3
+jomi:enter↕ [[320]]   enter↕   200> ( leftclick↓320 200> )x3
+jomi:enter↕ [[330]]   enter↕   200> ( leftclick↓330 200> )x3
+jomi:enter↕ [[340]]   enter↕   200> ( leftclick↓340 200> )x3
+jomi:enter↕ [[350]]   enter↕   200> ( leftclick↓350 200> )x3
+jomi:enter↕ [[350]]   enter↕   200> ( leftclick↓350 200> )x3
+jomi:enter↕ [[360]]   enter↕   200> ( leftclick↓360 200> )x3
+jomi:enter↕ [[370]]   enter↕   200> ( leftclick↓370 200> )x3
+jomi:enter↕ [[380]]   enter↕   200> ( leftclick↓380 200> )x3
+jomi:enter↕ [[390]]   enter↕   200> ( leftclick↓390 200> )x3
+									(               200> )x3
+									(               200> )x3
+jomi:enter↕ [[400]]  enter↕  200>   ( leftclick↓400 200> )x3
+jomi:enter↕ [[410]]   enter↕   200> ( leftclick↓410 200> )x3
+jomi:enter↕ [[420]]   enter↕   200> ( leftclick↓420 200> )x3
+jomi:enter↕ [[430]]   enter↕   200> ( leftclick↓430 200> )x3
+jomi:enter↕ [[440]]   enter↕   200> ( leftclick↓440 200> )x3
+jomi:enter↕ [[450]]   enter↕   200> ( leftclick↓450 200> )x3
+jomi:enter↕ [[450]]   enter↕   200> ( leftclick↓450 200> )x3
+jomi:enter↕ [[460]]   enter↕   200> ( leftclick↓460 200> )x3
+jomi:enter↕ [[470]]   enter↕   200> ( leftclick↓470 200> )x3
+jomi:enter↕ [[480]]   enter↕   200> ( leftclick↓480 200> )x3
+jomi:enter↕ [[490]]   enter↕   200> ( leftclick↓490 200> )x3
+									(               200> )x3
+									(               200> )x3
+jomi:enter↕ [[500]]  enter↕  200>   ( leftclick↓500 200> )x3
+jomi:enter↕ [[510]]   enter↕   200> ( leftclick↓510 200> )x3
+jomi:enter↕ [[520]]   enter↕   200> ( leftclick↓520 200> )x3
+jomi:enter↕ [[530]]   enter↕   200> ( leftclick↓530 200> )x3
+jomi:enter↕ [[540]]   enter↕   200> ( leftclick↓540 200> )x3
+jomi:enter↕ [[550]]   enter↕   200> ( leftclick↓550 200> )x3
+jomi:enter↕ [[550]]   enter↕   200> ( leftclick↓550 200> )x3
+jomi:enter↕ [[560]]   enter↕   200> ( leftclick↓560 200> )x3
+jomi:enter↕ [[570]]   enter↕   200> ( leftclick↓570 200> )x3
+jomi:enter↕ [[580]]   enter↕   200> ( leftclick↓580 200> )x3
+jomi:enter↕ [[590]]   enter↕   200> ( leftclick↓590 200> )x3
+									(               200> )x3
+									(               200> )x3
+jomi:enter↕ [[600]]  enter↕  200>   ( leftclick↓600 200> )x3
+jomi:enter↕ [[610]]   enter↕   200> ( leftclick↓610 200> )x3
+jomi:enter↕ [[620]]   enter↕   200> ( leftclick↓620 200> )x3
+jomi:enter↕ [[630]]   enter↕   200> ( leftclick↓630 200> )x3
+jomi:enter↕ [[640]]   enter↕   200> ( leftclick↓640 200> )x3
+jomi:enter↕ [[650]]   enter↕   200> ( leftclick↓650 200> )x3
+
+
+
+

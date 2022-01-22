@@ -1,0 +1,24 @@
+//←	↑	→	↓	↔	↖	↗	↘	↙
+1♦R1
+2♦R2
+3♦R3
+4♦R4
+Left2Right♦0♦l2r0
+Left2Right♦1♦l2r1
+Left2Right♦2♦l2r2
+Bot2Top♦2♦b2t
+FromLeftDown♦0♦FromLeftDown
+
+
+←♦0♦r0
+↑♦0♦d0
+→♦0♦l0
+↓♦0♦u0
+↖♦0♦fdr
+↗♦0♦fdl
+↘♦0♦ftl
+↙♦0♦ftr
+
+↓♦0♦u0
+↓♦1♦u1
+↓♦2♦u2
